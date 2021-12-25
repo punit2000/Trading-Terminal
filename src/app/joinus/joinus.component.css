@@ -1,0 +1,26 @@
+body{
+  background-color: #c4c7c6;
+}
+.example-card {
+  background-color: #cbcece;
+  margin-top: 175px;
+  border-radius: 15px;
+  padding: 30px;
+  color: black;
+}
+.aligningcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.appicons{
+  padding: 50px;
+}
+.title{
+  font-weight: 500;
+  margin-left: 170px;
+  font-size: 30px;
+}
+
+
